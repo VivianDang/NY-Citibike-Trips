@@ -16,5 +16,6 @@ It will take some time for the last two graph.
 
 ## To see dash app:
 - run *app.py*
+- click the link showed in python console(e.g http://127.0.0.1:8045/)
 
 You need to have *data_preprocessing.py* and *clean_data.pkl* in the same folder as *app.py*.
